@@ -1,7 +1,8 @@
 ![logo](https://github.com/Munsif311/Munsif311/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Munsif khan</h1>
 <h3 align="center">A passionate machine learning student and web frontend developer</h3>
-<img align="right" alt="coding" width="400" src="https://appdevelopermagazine.com/scripts/resize/?path=/images/news_images/All-You-Ever-Wanted-to-Know-about-Low-Code-App-Developer-Magazine_zwo2wpz6.jpg&width=900">
+<img align="left" alt="coding" width="300" hight="300" src="https://appdevelopermagazine.com/scripts/resize/?path=/images/news_images/All-You-Ever-Wanted-to-Know-about-Low-Code-App-Developer-Magazine_zwo2wpz6.jpg&width=900">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munsif311&label=Profile%20views&color=0e75b6&style=flat" alt="munsif311" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munsif311" alt="munsif311" /></a> </p>
